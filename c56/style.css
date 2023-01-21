@@ -1,0 +1,19 @@
+body {
+    text-align:center;
+    background-color:lightblue;
+
+}
+h1 {
+    color: orange;
+}
+#p1 {
+    color: red;
+    font-size: 30px;
+}
+button {
+    background-color: gold;
+    font-size: 25px;
+    height: 15%;
+    width: 15%;
+    border-radius: 20px;
+}
